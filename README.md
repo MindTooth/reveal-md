@@ -465,6 +465,8 @@ Many thanks to all [contributors][56]!
 
 ## License
 
+This project is licensed under the terms of the MIT license.
+
 [MIT][57]
 
 [1]: https://revealjs.com
