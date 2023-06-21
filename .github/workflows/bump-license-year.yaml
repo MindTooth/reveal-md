@@ -9,6 +9,8 @@ on:
 jobs:
   run:
     runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
     steps:
       - name: Clone project
         uses: actions/checkout@v2
