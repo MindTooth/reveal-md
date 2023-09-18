@@ -51,7 +51,7 @@
     "puppeteer": "1.20.0"
   },
   "devDependencies": {
-    "bron": "1.1.1",
+    "bron": "2.0.3",
     "eslint": "8.39.0",
     "eslint-config-prettier": "8.8.0",
     "eslint-plugin-import": "2.27.5",
