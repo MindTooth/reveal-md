@@ -48,7 +48,7 @@
     "yargs-parser": "21.1.1"
   },
   "optionalDependencies": {
-    "puppeteer": "1.20.0"
+    "puppeteer": "22.6.5"
   },
   "devDependencies": {
     "bron": "1.1.1",
