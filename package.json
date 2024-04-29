@@ -57,7 +57,7 @@
     "eslint-plugin-import": "2.27.5",
     "eslint-plugin-prettier": "4.2.1",
     "prettier": "2.8.8",
-    "release-it": "15.10.2"
+    "release-it": "17.2.1"
   },
   "engines": {
     "node": ">=12"
