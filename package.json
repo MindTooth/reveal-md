@@ -36,7 +36,7 @@
     "fs-extra": "11.3.3",
     "glob": "13.0.0",
     "highlight.js": "11.11.1",
-    "livereload": "0.9.3",
+    "livereload": "0.10.3",
     "lodash": "4.17.21",
     "mustache": "4.2.0",
     "open": "11.0.0",
