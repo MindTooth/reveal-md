@@ -41,7 +41,7 @@
     "mustache": "4.2.0",
     "open": "11.0.0",
     "reveal.js": "5.2.1",
-    "serve-favicon": "2.5.0",
+    "serve-favicon": "2.5.1",
     "try-require": "1.2.1",
     "update-notifier": "7.3.1",
     "yaml-front-matter": "4.1.1",
